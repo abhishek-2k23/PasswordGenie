@@ -1,6 +1,5 @@
-import { ThemedText } from "@/app-example/components/ThemedText";
-import { ThemedView } from "@/app-example/components/ThemedView";
-import { Text, View } from "react-native";
+import { ThemedText } from "@/components/ThemedText";
+import { ThemedView } from "@/components/ThemedView";
 
 export default function Index() {
   return (
