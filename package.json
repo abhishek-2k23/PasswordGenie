@@ -1,0 +1,18 @@
+{
+  "name": "passwordgenie",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "pnpm --parallel --filter ui --filter app start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-2k23/PasswordGenie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-2k23/PasswordGenie/issues"
+  },
+  "homepage": "https://github.com/abhishek-2k23/PasswordGenie#readme",
+  "description": ""
+}
