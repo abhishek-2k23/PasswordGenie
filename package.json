@@ -2,8 +2,8 @@
   "name": "passwordgenie",
   "version": "1.0.0",
   "scripts": {
-    "start": "pnpm --parallel --filter ui --filter app start",
-    "test" : "pnpm --filter ui test"
+    "start": "pnpm --parallel --filter frontend --filter backend start",
+    "test" : "pnpm --filter frontend test"
   },
   "repository": {
     "type": "git",
